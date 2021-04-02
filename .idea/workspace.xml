@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8453d88-03a2-4618-9738-581d72a8e537" name="Default Changelist" comment="" />
+    <list default="true" id="b8453d88-03a2-4618-9738-581d72a8e537" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/10_01.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/10_01.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/10_01.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/tests/10_01.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1qZPudto9w1fjqR7oP0zvDfjMDY" />
   <component name="ProjectViewState">
@@ -16,11 +23,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/react-scripts" />
-    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="ts.external.directory.path" value="D:\Workspace\native_JS_TS\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Jest.change address">
-    <configuration name="change address" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.update company with associative array">
+    <configuration name="add new books to array" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -29,11 +36,11 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/tests/10_01.test.ts" />
       <test-names>
-        <test-name value="change address" />
+        <test-name value="add new books to array" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="reference typetest" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="update company with associative array" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
@@ -42,14 +49,56 @@
       <scope-kind value="TEST" />
       <test-file value="$PROJECT_DIR$/src/tests/10_01.test.ts" />
       <test-names>
-        <test-name value="reference typetest" />
+        <test-name value="update company with associative array" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="update js to ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/10_01.test.ts" />
+      <test-names>
+        <test-name value="update js to ts" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="upgrade laptop to macbook" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/10_01.test.ts" />
+      <test-names>
+        <test-name value="upgrade laptop to macbook" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="us to ts" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/tests/10_01.test.ts" />
+      <test-names>
+        <test-name value="us to ts" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.change address" />
-        <item itemvalue="Jest.reference typetest" />
+        <item itemvalue="Jest.update company with associative array" />
+        <item itemvalue="Jest.us to ts" />
+        <item itemvalue="Jest.update js to ts" />
+        <item itemvalue="Jest.add new books to array" />
+        <item itemvalue="Jest.upgrade laptop to macbook" />
       </list>
     </recent_temporary>
   </component>
@@ -63,6 +112,13 @@
       <updated>1617284365670</updated>
       <workItem from="1617284367679" duration="82000" />
       <workItem from="1617284496447" duration="4272000" />
+      <workItem from="1617344755954" duration="10000" />
+      <workItem from="1617344795255" duration="3393000" />
+      <workItem from="1617349282636" duration="2714000" />
+      <workItem from="1617357500861" duration="2924000" />
+      <workItem from="1617360890498" duration="7475000" />
+      <workItem from="1617368458343" duration="2125000" />
+      <workItem from="1617380730569" duration="978000" />
     </task>
     <servers />
   </component>
@@ -70,21 +126,40 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1617288730416">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="173" key="GridCell.Tab.0.bottom" timestamp="1617382754967">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-452.1920.1040@-1920.-452.1920.1040" timestamp="1617352495194" />
     <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1920.-452.1920.1040@0.0.1366.728" timestamp="1617288730416" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1617288730416">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="173" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617382754967" />
+    <state width="1899" height="173" key="GridCell.Tab.0.center" timestamp="1617382754967">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-452.1920.1040@-1920.-452.1920.1040" timestamp="1617352495193" />
     <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1920.-452.1920.1040@0.0.1366.728" timestamp="1617288730416" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1617288730416">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="173" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617382754967" />
+    <state width="1899" height="173" key="GridCell.Tab.0.left" timestamp="1617382754967">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-452.1920.1040@-1920.-452.1920.1040" timestamp="1617352495193" />
     <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1920.-452.1920.1040@0.0.1366.728" timestamp="1617288730416" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1617288730416">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1899" height="173" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617382754967" />
+    <state width="1899" height="173" key="GridCell.Tab.0.right" timestamp="1617382754967">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1899" height="281" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-452.1920.1040@-1920.-452.1920.1040" timestamp="1617352495194" />
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1920.-452.1920.1040@0.0.1366.728" timestamp="1617288730416" />
+    <state width="1899" height="173" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617382754967" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/tests/10_01.test.ts</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
